@@ -1,0 +1,4 @@
+done
+__pycache__
+*.gcode
+settings.py

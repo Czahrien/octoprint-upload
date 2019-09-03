@@ -1,0 +1,4 @@
+url = 'http://localhost:5000/api/files/local'
+apiKey = 'OCTOPRINTAPIKEY'
+doneFilePath = 'done'
+uploadFilePath = 'autoUpload'
