@@ -1,4 +1,6 @@
 done
 __pycache__
 *.gcode
+*.log
 settings.py
+.vscode
